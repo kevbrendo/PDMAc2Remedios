@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Ac2Remedios</string>
+    <string name="app_name">Meus Remédios</string>
+    <string name="adicionar_medicamento">Adicionar Medicamento</string>
+    <string name="nome_do_medicamento">Nome do Medicamento</string>
+    <string name="descricao_opcional">Descrição (Opcional)</string>
+    <string name="horario_de_consumo">Horário de Consumo (HH:mm)</string>
+    <string name="salvar">Salvar</string>
+    <string name="medicamento_cadastrado">Medicamento cadastrado</string>
+    <string name="nome_e_horario_obrigatorios">Nome e Horário são obrigatórios</string>
+    <string name="formato_de_horario_invalido">Formato de horário inválido</string>
+    <string name="medicamento_atualizado">Medicamento atualizado</string>
+    <string name="medicamento_excluido">Medicamento excluído</string>
+    <string name="marcar_tomado">Marcar Tomado</string>
+    <string name="tomado">Tomado</string>
 </resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Medications</string>
+    <string name="adicionar_medicamento">Add Medication</string>
+    <string name="nome_do_medicamento">Medication Name</string>
+    <string name="descricao_opcional">Description (Optional)</string>
+    <string name="horario_de_consumo">Consumption Time (HH:mm)</string>
+    <string name="salvar">Save</string>
+    <string name="medicamento_cadastrado">Medication registered</string>
+    <string name="nome_e_horario_obrigatorios">Name and Time are required</string>
+    <string name="formato_de_horario_invalido">Invalid time format</string>
+    <string name="medicamento_atualizado">Medication updated</string>
+    <string name="medicamento_excluido">Medication deleted</string>
+    <string name="marcar_tomado">Mark as Taken</string>
+    <string name="tomado">Taken</string>
+</resources>
